@@ -1,4 +1,4 @@
-Unified Device Tree For Motorola E
+Unified Device Tree For LG Sunrise
 ==================================
 
 The LG (codenamed _"Sunrise"_) is a lowest-range smartphone from LG Electronics.
