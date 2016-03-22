@@ -17,4 +17,7 @@ Battery | 1540 mAh
 Dimensions | 4.43 x 2.50 x 0.49 in
 Camera  | 3 MP, 2048 х 1536 pixels
 
-![LG Sunrise](https%3A//drive.google.com/8a30f664-f212-4d08-8a4a-51f396fd8d99 "LG Sunrise")
+
+<!-- fix broken image link
+(![LG Sunrise](https://drive.google.com/file/d/0B3ZYfSLxm2jLa2FJWm1YNEJfbXM/preview "LG Sunrise")
+-->
