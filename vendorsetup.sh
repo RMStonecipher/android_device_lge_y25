@@ -1,1 +1,2 @@
-add_lunch_combo cm_condor-userdebug
+add_lunch_combo cm_y25-userdebug
+add_lunch_combo cm_y25-eng
